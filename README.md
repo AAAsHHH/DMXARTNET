@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_STORE_URL](https://aaashhh.github.io/DMXARTNET/)">🛒 Buy the Product</a>
+  <a href="https://aaashhh.github.io/DMXARTNET/">🛒 Buy the Product</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="docs/index.md">📖 Documentation</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
