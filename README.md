@@ -13,7 +13,7 @@
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="docs/index.md">📖 Documentation</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="[YOUR_ISSUES_URL](https://github.com/AAAsHHH/DMXnetART/issues)">🐛 Issues</a>
+  <a href="[YOUR_ISSUES_URL](https://github.com/AAAsHHH/DMXARTNET/issues)">🐛 Issues</a>
 </p>
 
 ---
