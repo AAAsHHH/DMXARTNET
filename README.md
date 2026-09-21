@@ -11,9 +11,9 @@
 <p align="center">
   <a href="YOUR_STORE_URL">🛒 Buy the Product</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="YOUR_DOCUMENTATION_URL">📖 Documentation</a>
+  <a href="docs/index.md">📖 Documentation</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="YOUR_ISSUES_URL">🐛 Issues</a>
+  <a href="[YOUR_ISSUES_URL](https://github.com/AAAsHHH/RadioI/issues)">🐛 Issues</a>
 </p>
 
 ---
