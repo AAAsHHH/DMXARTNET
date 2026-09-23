@@ -533,6 +533,19 @@
             .stores {
                 grid-template-columns: 1fr;
             }
+            .coming-soon {
+                opacity: 0.55;
+                cursor: default;
+            }
+            
+            .coming-soon:hover {
+                transform: none;
+                border-color: var(--border);
+            }
+            
+            .coming-soon .store-button {
+                color: var(--muted);
+            }
         }
 
         @media (max-width: 500px) {
@@ -1121,7 +1134,7 @@
 
 
 <!-- =========================================================
-     STORES
+     WHERE TO BUY
 ========================================================= -->
 
 <section id="stores">
@@ -1137,7 +1150,8 @@
             </h2>
 
             <p>
-                Available through the following online stores.
+                Purchase the product directly through our official
+                Telegram store, with additional stores coming soon.
             </p>
 
         </div>
@@ -1146,67 +1160,64 @@
         <div class="stores">
 
 
-            <!-- STORE 1 -->
+            <!-- TELEGRAM STORE -->
 
-            <a href="YOUR_STORE_1_URL"
+            <a href="https://t.me/dmxartnet_bot?start"
                class="store"
-               target="_blank">
+               target="_blank"
+               rel="noopener noreferrer">
 
                 <h3>
-                    Store Name
+                    Telegram Store
                 </h3>
 
                 <p>
-                    Purchase this product online.
+                    Order directly through our official Telegram bot.
                 </p>
 
                 <span class="store-button">
-                    VISIT STORE →
+                    BUY ON TELEGRAM →
                 </span>
 
             </a>
 
 
-            <!-- STORE 2 -->
+            <!-- COMING SOON -->
 
-            <a href="YOUR_STORE_2_URL"
-               class="store"
-               target="_blank">
+            <div class="store coming-soon">
 
                 <h3>
-                    Store Name
+                    Online Store
                 </h3>
 
                 <p>
-                    Purchase this product online.
+                    Our online store is currently being prepared.
                 </p>
 
                 <span class="store-button">
-                    VISIT STORE →
+                    COMING SOON
                 </span>
 
-            </a>
+            </div>
 
 
-            <!-- STORE 3 -->
+            <!-- COMING SOON -->
 
-            <a href="YOUR_STORE_3_URL"
-               class="store"
-               target="_blank">
+            <div class="store coming-soon">
 
                 <h3>
-                    Store Name
+                    Marketplace
                 </h3>
 
                 <p>
-                    Purchase this product online.
+                    This store will be available soon.
                 </p>
 
                 <span class="store-button">
-                    VISIT STORE →
+                    COMING SOON
                 </span>
 
-            </a>
+            </div>
 
 
         </div>
@@ -1214,8 +1225,6 @@
     </div>
 
 </section>
-
-
 <!-- =========================================================
      CTA
 ========================================================= -->
@@ -1233,11 +1242,13 @@
             and integrate Art-Net control into your lighting setup.
         </p>
 
-        <a href="YOUR_STORE_URL"
-           class="button button-primary">
-
-            BUY NOW
-
+        <a href="https://t.me/dmxartnet_bot?start"
+           class="button button-primary"
+           target="_blank"
+           rel="noopener noreferrer">
+        
+            BUY NOW ON TELEGRAM
+        
         </a>
 
     </div>
